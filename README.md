@@ -1,36 +1,42 @@
-Orderly
+## Orderly
 
 Orderly is a Flutter-based application designed for inventory management, customer transactions (Khata), and real-time chat functionalities. The app utilizes Firebase for backend services, offering authentication, real-time data handling, and push notifications. It is designed for small businesses to efficiently track inventory, manage customer transactions, and communicate effectively.
 
-Table of Contents
-	•	Features
-	•	Screenshots
-	•	Technologies Used
-	•	Installation
-	•	Usage
-  	•	Authentication
-  	•	Inventory Management
-  	•	Customer Transactions (Khata)
-  	•	Statistics & Insights
-  	•	Voice Assistant
-	•	Folder Structure
-	•	Contributing
-	•	License
-
- 
 Features
 
-	•	Inventory Management: Manage products, inventory, and stock levels easily.
-	•	Customer Transactions (Khata): Record payments, view transaction history, and maintain customer balances.
-	•	Chat Functionality: Real-time chat system to enable communication between users.
-	•	Statistics & Insights: View sales, investments, and revenue through dynamic charts.
-	•	Voice Assistant: A voice command-based assistant for search and navigation using text-to-speech and speech-to-text features.
-	•	Firebase Integration: Authentication, real-time database storage, and push notifications via Firebase Cloud Messaging (FCM).
+	•	Inventory Management: Easily manage your product stock levels and inventory, adding or editing products in a few clicks.
+	•	Customer Transactions (Khata): Record and track payments, view transaction history, and maintain customer balances efficiently.
+	•	Real-Time Chat: Seamless communication between users with built-in chat functionality for quick messaging and collaboration.
+	•	Statistics & Insights: Visualize sales, investments, and revenue with dynamic charts for quick data-driven decisions.
+	•	Voice Assistant: Navigate and search the app hands-free using voice commands with integrated text-to-speech and speech-to-text capabilities.
+	•	Firebase Integration: Secure authentication, real-time data sync, and instant push notifications with Firebase Cloud Messaging (FCM).
 
 
-Screenshots
+## Screenshots
 
-
+<table>
+  <tr>
+    <td>
+      <img src="assets/ss1.jpg" alt="Screenshot 1" width="300"/>
+    </td>
+    <td>
+      <img src="assets/ss2.jpg" alt="Screenshot 2" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/ss3.jpg" alt="Screenshot 3" width="300"/>
+    </td>
+    <td>
+      <img src="assets/ss4.jpg" alt="Screenshot 4" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="assets/ss5.jpg" alt="Screenshot 5" width="300"/>
+    </td>
+  </tr>
+</table>
 Installation
 
 Prerequisites
